@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartMenu.unity
+    guid: fee13fda2afe44cba89976b07c7ae21d
+  - enabled: 1
+    path: Assets/Scenes/ManualStartWaitingRoom.unity
+    guid: 50397381edce7498cb18d9c0d5ba70d5
+  - enabled: 0
+    path: Assets/Scenes/DelayStartWaitingRoom.unity
+    guid: 59906a4af827543768e623ec77fabac5
+  - enabled: 1
+    path: Assets/Scenes/MultiplayerScene.unity
+    guid: 791d884c17f3545e1be96a78e05129fe
+  - enabled: 1
+    path: Assets/Scenes/EndGame.unity
+    guid: 664320d08219d48fba222d446b48b89c
+  m_configObjects: {}
